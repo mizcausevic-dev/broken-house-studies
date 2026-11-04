@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/broken-house-studies-simple-synth-preview.mp3",
+  "preview_sha256": "f2bbb42f10aa85e34d8283b28093ae01620e51f7643f0018931e8c206b2d5086",
+  "source_midi_path": "midi/bh01-split-floor/bh01-split-floor-combined.mid",
+  "source_midi_sha256": "0c50dcc22cd79e183e64de0a7a8a7447b3e6eb3961a4c7de992357ca028d4c90",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "per-voice envelopes only, followed by MP3 encoding"
+  },
+  "selection": {
+    "study": "bh01",
+    "start_seconds": 0,
+    "end_seconds": 60.952
+  },
+  "measurement": {
+    "sample_peak": 0.16358,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

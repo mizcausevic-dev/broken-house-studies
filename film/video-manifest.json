@@ -1,0 +1,15 @@
+{
+  "source_audio": "preview/broken-house-studies-simple-synth-preview.mp3",
+  "source_audio_sha256": "f2bbb42f10aa85e34d8283b28093ae01620e51f7643f0018931e8c206b2d5086",
+  "excerpt_start_seconds": 0,
+  "excerpt_duration_seconds": 18,
+  "video": "film/preview.mp4",
+  "video_sha256": "9b96dc99b3344bdbc31cf900e46b424ac0105c46a0266b5aa85bd87c01f5b477",
+  "duration_seconds": 18.0,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "caption": "film/preview.vtt",
+  "poster": "film/poster.jpg",
+  "disclosure": "preview, not master",
+  "note": "A static illustrated poster and audio excerpt; no recording-session claim."
+}

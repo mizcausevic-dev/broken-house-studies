@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+bh01,Split Floor,pack-local equal-tempered pitch collection,C#,126,4/4,480,32,61440,midi/bh01-split-floor/bh01-split-floor-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+bh02,Turn Pattern,pack-local equal-tempered pitch collection,E,126,4/4,480,32,61440,midi/bh02-turn-pattern/bh02-turn-pattern-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+bh03,Open Grid,pack-local equal-tempered pitch collection,G,126,4/4,480,32,61440,midi/bh03-open-grid/bh03-open-grid-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+bh04,Last Landing,pack-local equal-tempered pitch collection,D,126,4/4,480,32,61440,midi/bh04-last-landing/bh04-last-landing-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
