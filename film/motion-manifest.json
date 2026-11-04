@@ -1,0 +1,26 @@
+{
+  "title": "Broken House",
+  "study": "bh01",
+  "bpm": 126,
+  "source_audio": "preview/broken-house-studies-simple-synth-preview.mp3",
+  "source_audio_sha256": "f2bbb42f10aa85e34d8283b28093ae01620e51f7643f0018931e8c206b2d5086",
+  "source_midi": "midi/bh01-split-floor/bh01-split-floor-combined.mid",
+  "source_midi_sha256": "0c50dcc22cd79e183e64de0a7a8a7447b3e6eb3961a4c7de992357ca028d4c90",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "9c01fd4016e33cdd820d98afe20961ce687622b454b6b519baa429759b6be940",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "085490bba1e96c0969787864cc4cf5cb2e12717839b684d75e5a12e1b67c9858",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "06d61ce0e69eb4b6e5108a35e5f08a7717a118fd6e687add655339f22f4b367c",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
