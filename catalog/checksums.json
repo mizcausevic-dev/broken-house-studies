@@ -7,21 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 782,
-      "sha256": "ec7a1dfe60f458587fce3b967992c9fea87bd5a33bc9c889a31a9678ae9bebf0"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3680,
-      "sha256": "cc3e03e8c6bf821e4c7d580850076b9635f6d7dd19c7ca03306d374bceaf0bf2"
-    },
-    {
-      "path": "RENDERER-METADATA-CORRECTION.md",
-      "bytes": 753,
-      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -118,8 +103,8 @@
     },
     {
       "path": "downloads/broken-house-studies-midi.zip",
-      "bytes": 24726,
-      "sha256": "2d1420584957f901033d6c531ccf68b05eb2ae83c656b18b618395c75ad79085"
+      "bytes": 25713,
+      "sha256": "d009f5167940e9d082cef1add8f12d83ef39cabc8f4f2a39d8b82846e5724144"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -140,11 +125,6 @@
       "path": "film/motion-overlay.png",
       "bytes": 31073,
       "sha256": "d6cad1da6506779a5ab24a9369f59456f5727e2d1f085d4b085aa4ddb4f8bc64"
-    },
-    {
-      "path": "film/motion-preview.mp4",
-      "bytes": 1282311,
-      "sha256": "06d61ce0e69eb4b6e5108a35e5f08a7717a118fd6e687add655339f22f4b367c"
     },
     {
       "path": "film/motion-preview.vtt",
@@ -173,8 +153,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9306,
-      "sha256": "b01fd700d211dec924ff5884c6da1060f88bef9e86c920b8dd2aa1c8c6b6c12c"
+      "bytes": 9496,
+      "sha256": "2db1ceae4c6bdc3ce8f0c5c6e87e049f407bca305b25d72b99b5fafbcf2ab6ef"
     },
     {
       "path": "midi/bh01-split-floor/bh01-split-floor-combined.mid",
@@ -317,6 +297,16 @@
       "sha256": "6ffa3bc375db993d2baa2df48f61c9265d677b25f734163a0620e60b25deeddb"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 782,
+      "sha256": "ec7a1dfe60f458587fce3b967992c9fea87bd5a33bc9c889a31a9678ae9bebf0"
+    },
+    {
       "path": "preview/broken-house-studies-simple-synth-preview.mp3",
       "bytes": 1476484,
       "sha256": "f2bbb42f10aa85e34d8283b28093ae01620e51f7643f0018931e8c206b2d5086"
@@ -325,6 +315,16 @@
       "path": "preview/preview-manifest.json",
       "bytes": 1132,
       "sha256": "2bd5b6ec42242d23abf44abe1288ca85ed05634874ce4c6518dc009dd1df6387"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3795,
+      "sha256": "6206aef3278a6c363a76b31165644f4f6eef3794290caaffc98d280f8d8966d8"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
     },
     {
       "path": "social/instagram/caption.txt",
